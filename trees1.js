@@ -201,5 +201,23 @@ export class BST {
             return false;
         }
     }
+
+    height() {
+
+    }
+
+    countRight(count) {
+
+    }
+
+    countLeft(count) {}
+
+    isBalanced() {}
+
+    arrayToBST() {}
+
+    closestCommonAncestor() {}
+
+    minHeight() {}
 }
 
